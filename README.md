@@ -1,2 +1,2 @@
 # EmailValidator
-A basic python that validates an email adress using Regular Expression
+A basic python program that validates an email adress using Regular Expression
